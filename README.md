@@ -33,7 +33,7 @@ I specialize in ;
 
 Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas. Let's create something amazing together!🤗🤗🤗
 
-
+Thank you for reading! 👩🏻‍💻
 
 
 <!---
