@@ -1,7 +1,40 @@
-- 👋 Hi, I’m @Saeedullah7256
-- 👀 I’m interested in Coding.
-- 🌱 I’m currently learning React js, Next js & Api integration.
-- 💞️ I’m looking to collaborate on HTML, CSS, JavaScript, React js & Next js.
+🤗Hi There, I’m @Saeedullah7256!
+
+Welcome to my GitHub profile! I'm a passionate web developer with expertise in various technologies and frameworks. Here's a bit about me,
+
+✨About Me:
+
+I specialize in ;
+=>=>=> HTML <=<=<=
+
+=>=>=> CSS <=<=<=
+
+=>=>=> JavaScript <=<=<=
+
+=>=>=> Tailwind CSS <=<=<=
+
+=>=>=> React js <=<=<=
+
+=>=>=> Next js <=<=<=
+
+=>=>=> Node js <=<=<=
+
+=>=>=> Three js <=<=<=
+
+=>=>=> Wordpress <=<=<=
+
+✨I have built and am continuously working on numerous websites and web applications using these technologies.✨
+
+✨I am always eager to learn new skills and take on challenging projects.😎✨
+
+✨ Fun Fact;
+
+=> I love exploring new technologies and staying updated with the latest trends in web development.😎
+
+Feel free to explore my repositories and get in touch if you have any questions or collaboration ideas. Let's create something amazing together!🤗🤗🤗
+
+
+
 
 <!---
 Saeedullah7256/Saeedullah7256 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
